@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PeduliHIV</string>
+    <string name="login_email">Email Anda</string>
+    <string name="login_password">Password Anda</string>
+    <string name="login_forgot_pw">Lupa password?</string>
+    <string name="login_havent_account">
+        Tidak punya akun? Silahkan <font color="#800000"><b>register</b></font> terlebih dahulu.
+</string>
+    <string name="btn_login">LOGIN</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
